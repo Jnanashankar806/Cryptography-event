@@ -1,4 +1,4 @@
-# Cryptography Event Work
+# Cryptography  Work
 
 This project consists of cryptographic algorithms that are  implemented in Java. 
 It includes several classic ciphers that are commonly used in the field of cryptography. 
