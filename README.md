@@ -3,8 +3,8 @@
 This project consists of cryptographic algorithms that are  implemented in Java. 
 It includes several classic ciphers that are commonly used in the field of cryptography. 
 
-## **Name**: **Jnanashankar**  
-## **USN**: **01JST22UCS**
+## **Name**: **Jnanashankar N**  
+## **USN**: **01JST23UCS404**
 
 ## Algorithms Implemented
 
